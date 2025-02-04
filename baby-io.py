@@ -19,7 +19,7 @@ X = np.array([[0, 0],
 y = np.array([[0], [1], [1], [0]])  # XOR problem
 
 # Seed for reproducibility
-np.random.seed(42)
+# np.random.seed(42)
 
 # Initialize weights randomly with mean 0
 input_layer_size = 2
